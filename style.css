@@ -5,5 +5,8 @@ body {
 }
 body {
  background-image: url("Green.png");
+ min-height: 600px;
+ background-size: cover;
+ background-position: center center;
 
 }
